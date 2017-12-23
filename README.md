@@ -1,3 +1,1 @@
- Let's make an application.
-
-Vaihalchi ni Bro.
+Making an HTML page to display text and images of Apple products.
